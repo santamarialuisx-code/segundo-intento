@@ -4,5 +4,7 @@
     padding: 15px;
     box-shadow: 5px 5px 10px black;
     margin: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
     text-align: center;
 }
